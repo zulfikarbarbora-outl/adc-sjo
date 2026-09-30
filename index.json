@@ -2,7 +2,7 @@
   "library": "Saint James Orchestra",
   "format": "sf2",
   "fileCount": 96,
-  "totalSizeBytes": 50121542,
+  "totalSizeBytes": 50117387,
   "files": [
     {
       "file": "SJO_Bassoon.sf2",
@@ -392,7 +392,7 @@
       "file": "SJO_Bassoon.opus",
       "name": "SJO_Bassoon",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Bassoon.opus",
-      "size": 1519,
+      "size": 1571,
       "note": null,
       "midiNote": 60
     },
@@ -400,7 +400,7 @@
       "file": "SJO_C-Bass_Detache.opus",
       "name": "SJO_C-Bass_Detache",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_C-Bass_Detache.opus",
-      "size": 5322,
+      "size": 4796,
       "note": null,
       "midiNote": 60
     },
@@ -408,7 +408,7 @@
       "file": "SJO_C-Bass_Legato.opus",
       "name": "SJO_C-Bass_Legato",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_C-Bass_Legato.opus",
-      "size": 22672,
+      "size": 27097,
       "note": null,
       "midiNote": 60
     },
@@ -416,7 +416,7 @@
       "file": "SJO_C-Bass_Pizzicato.opus",
       "name": "SJO_C-Bass_Pizzicato",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_C-Bass_Pizzicato.opus",
-      "size": 4879,
+      "size": 3802,
       "note": null,
       "midiNote": 60
     },
@@ -424,7 +424,7 @@
       "file": "SJO_C-Bass_Tremelo.opus",
       "name": "SJO_C-Bass_Tremelo",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_C-Bass_Tremelo.opus",
-      "size": 15038,
+      "size": 13233,
       "note": null,
       "midiNote": 60
     },
@@ -432,7 +432,7 @@
       "file": "SJO_Cellio_Tremelo.opus",
       "name": "SJO_Cellio_Tremelo",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Cellio_Tremelo.opus",
-      "size": 12906,
+      "size": 10769,
       "note": null,
       "midiNote": 60
     },
@@ -448,7 +448,7 @@
       "file": "SJO_Cello_Detache.opus",
       "name": "SJO_Cello_Detache",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Cello_Detache.opus",
-      "size": 4354,
+      "size": 4052,
       "note": null,
       "midiNote": 60
     },
@@ -456,7 +456,7 @@
       "file": "SJO_Cello_Legato.opus",
       "name": "SJO_Cello_Legato",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Cello_Legato.opus",
-      "size": 21545,
+      "size": 23581,
       "note": null,
       "midiNote": 60
     },
@@ -464,7 +464,7 @@
       "file": "SJO_Cello_Pizzicato.opus",
       "name": "SJO_Cello_Pizzicato",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Cello_Pizzicato.opus",
-      "size": 3568,
+      "size": 5059,
       "note": null,
       "midiNote": 60
     },
@@ -472,7 +472,7 @@
       "file": "SJO_Choir+Aahs.opus",
       "name": "SJO_Choir+Aahs",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Choir+Aahs.opus",
-      "size": 11211,
+      "size": 11277,
       "note": null,
       "midiNote": 60
     },
@@ -496,7 +496,7 @@
       "file": "SJO_Clarinet.opus",
       "name": "SJO_Clarinet",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Clarinet.opus",
-      "size": 784,
+      "size": 717,
       "note": null,
       "midiNote": 60
     },
@@ -512,7 +512,7 @@
       "file": "SJO_Double_Bass.opus",
       "name": "SJO_Double_Bass",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Double_Bass.opus",
-      "size": 3225,
+      "size": 4288,
       "note": null,
       "midiNote": 60
     },
@@ -520,7 +520,7 @@
       "file": "SJO_English_Horn.opus",
       "name": "SJO_English_Horn",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_English_Horn.opus",
-      "size": 506,
+      "size": 420,
       "note": null,
       "midiNote": 60
     },
@@ -528,7 +528,7 @@
       "file": "SJO_Flute.opus",
       "name": "SJO_Flute",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Flute.opus",
-      "size": 9596,
+      "size": 6368,
       "note": null,
       "midiNote": 60
     },
@@ -536,7 +536,7 @@
       "file": "SJO_French_Horn.opus",
       "name": "SJO_French_Horn",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_French_Horn.opus",
-      "size": 17951,
+      "size": 24295,
       "note": null,
       "midiNote": 60
     },
@@ -608,7 +608,7 @@
       "file": "SJO_Strings_2.opus",
       "name": "SJO_Strings_2",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Strings_2.opus",
-      "size": 7960,
+      "size": 9877,
       "note": null,
       "midiNote": 60
     },
@@ -616,7 +616,7 @@
       "file": "SJO_Strings_3.opus",
       "name": "SJO_Strings_3",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Strings_3.opus",
-      "size": 10781,
+      "size": 9930,
       "note": null,
       "midiNote": 60
     },
@@ -656,7 +656,7 @@
       "file": "SJO_Timpani.opus",
       "name": "SJO_Timpani",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Timpani.opus",
-      "size": 13296,
+      "size": 10797,
       "note": null,
       "midiNote": 60
     },
@@ -664,7 +664,7 @@
       "file": "SJO_Trombone.opus",
       "name": "SJO_Trombone",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Trombone.opus",
-      "size": 547,
+      "size": 1022,
       "note": null,
       "midiNote": 60
     },
@@ -696,7 +696,7 @@
       "file": "SJO_Viola.opus",
       "name": "SJO_Viola",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Viola.opus",
-      "size": 2337,
+      "size": 3226,
       "note": null,
       "midiNote": 60
     },
@@ -704,7 +704,7 @@
       "file": "SJO_Viola_Arco.opus",
       "name": "SJO_Viola_Arco",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Viola_Arco.opus",
-      "size": 10937,
+      "size": 10413,
       "note": null,
       "midiNote": 60
     },
@@ -720,7 +720,7 @@
       "file": "SJO_Viola_Tremelo.opus",
       "name": "SJO_Viola_Tremelo",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Viola_Tremelo.opus",
-      "size": 21793,
+      "size": 10312,
       "note": null,
       "midiNote": 60
     },
@@ -744,7 +744,7 @@
       "file": "SJO_Violin_Detache.opus",
       "name": "SJO_Violin_Detache",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Violin_Detache.opus",
-      "size": 3295,
+      "size": 2983,
       "note": null,
       "midiNote": 60
     },
@@ -760,7 +760,7 @@
       "file": "SJO_Violin_Tremelo.opus",
       "name": "SJO_Violin_Tremelo",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-sjo/main/SJO_Violin_Tremelo.opus",
-      "size": 17538,
+      "size": 19520,
       "note": null,
       "midiNote": 60
     },
